@@ -1,5 +1,4 @@
 # usually pytest searches for files with the name test in it. This can be configures and modified. Starting with __name__ == "__main__" does not allow pytest to find what to test.
-from unicodedata import name
 import pytest
 
 
